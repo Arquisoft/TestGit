@@ -1,4 +1,4 @@
 TestGit
 =======
 
-Test Git from Luis
+Test Git
