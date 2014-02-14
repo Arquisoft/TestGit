@@ -1,2 +1,8 @@
+Rama
+=======
+"Hola" 
+Rama con cambios
+Mezclando: "Hola" 
+Un nuevo cambio
 Rama con un cambio nuevo en Master
 Todo junto: "Hola" 
