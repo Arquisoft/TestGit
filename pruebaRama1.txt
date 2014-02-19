@@ -4,3 +4,4 @@ Cambio en Master2
 Prueba en nueva rama Rebase
 Nuevo commit en pruebaRebase
 Combinando master y prueba rebase
+Nueva función
