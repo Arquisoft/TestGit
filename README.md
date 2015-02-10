@@ -2,4 +2,5 @@ TestGit
 =======
 
 Test Git
-I have added a feature
+
+This file contains just a playground repository
