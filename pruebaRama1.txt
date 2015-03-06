@@ -1,7 +1,0 @@
-Prueba en nueva rama 
-Cambio en Master1
-Cambio en Master2
-Prueba en nueva rama Rebase
-Nuevo commit en pruebaRebase
-Combinando master y prueba rebase
-Cambio en Nueva función
